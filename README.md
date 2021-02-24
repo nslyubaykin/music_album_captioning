@@ -4,7 +4,7 @@ This reporitory contains a TensorFlow [implementation](https://github.com/nslyub
 
 # Data:
 
-Model is trained on 330k music albums images and their captions (artist's & album's names concatinated with adding <SEP> token) parsed from the web. In the future, after tidying the data it will be published. Captions were tokenized with [Youtokentome](https://github.com/VKCOM/YouTokenToMe) BPE tokenizer.
+Model is trained on 330k music albums images and their captions (artist's & album's names concatenated with adding <SEP> token) parsed from the web. In the future, after tidying the data it will be published. Captions were tokenized with [Youtokentome](https://github.com/VKCOM/YouTokenToMe) BPE tokenizer.
 
 # Model:
 
