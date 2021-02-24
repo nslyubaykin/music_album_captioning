@@ -20,7 +20,7 @@ As a feature extractor and encoder ImageNet pretrained MobileNetV2 is used. Enco
 
 ![Album 4](https://github.com/nslyubaykin/music_album_captioning/blob/master/sample_imgs/alb4.png)
 
-# Captioning Arbitary User Images:
+# Captioning Arbitary Images:
 
 You can upload your own images to user_imgs folder and process them.
 
