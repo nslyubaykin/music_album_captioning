@@ -8,7 +8,7 @@ Model is trained on 330k music albums images and their captions (artist's & albu
 
 # Model:
 
-As a feature extractor and encoder ImageNet pretrained MobileNetV2 is used. Encoder maps raw image into a sequence of 49 tokens (each token is encoded with 128-dimensional vector). Last layer adds positional encoding for processing in the transformer decoder. As a decoder classic Transformer with self-attention is used. Trained models are attached and may be loaded from the checkpoints file.
+As a feature extractor and encoder ImageNet pretrained MobileNetV2 is used. Encoder maps raw image into a sequence of 49 tokens (each token is encoded with 128-dimensional vector). Last layer adds positional encoding for processing in the transformer decoder. As a decoder part classic Transformer decoder with self-attention is used. Trained models are attached and may be loaded from the checkpoints file.
 
 # Captioning OOS Music Albums Covers:
 
